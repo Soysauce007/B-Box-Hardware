@@ -1,2 +1,2 @@
 # B-Box-Hardware
-B-Box Hardware design.
+B-Box Hardware design files.
